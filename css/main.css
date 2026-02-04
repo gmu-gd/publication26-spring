@@ -30,6 +30,7 @@ section ul li, section ol li {
 }
 .arrow, .number, .boxes {
 	padding: 0;
+	margin-bottom: 1em;
 }
 .number, {
 	margin-top: 0;
